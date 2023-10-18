@@ -13,7 +13,7 @@ def load_model():
     return loaded_model, loaded_tokenizer
 
 def create_pipeline(model, tokenizer):
-    classifier = pipeline('sentiment-analysis',
+    classifier = pipeline('text-classification',
                       model=model,
                       tokenizer=tokenizer
              )

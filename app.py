@@ -9,7 +9,7 @@ st.sidebar.info(
 
 st.subheader("Enter your email text below:")
 
-text = st.text_area("")
+text = st.text_area("Enter text here...", label_visibility="hidden")
 
 predict_button = st.button("Check")
 if predict_button:
