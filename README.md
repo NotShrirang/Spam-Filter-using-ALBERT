@@ -28,8 +28,3 @@ pip install -r requirements.txt
 ```
 streamlit run app.py
 ```
-
-### Screenshots:
-
-![image](./screenshots/screenshot1.png)
-![image](./screenshots/screenshot2.png)
