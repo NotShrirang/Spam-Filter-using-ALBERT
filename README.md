@@ -11,9 +11,9 @@ This project aims to build a spam filter using a fine-tuned ALBERT (A Lite BERT)
 - [License](https://github.com/NotShrirang/Spam-Filter-using-ALBERT/blob/main/LICENSE)
 
 ## Overview
-
-Model: <a href="https://huggingface.co/NotShrirang/albert-spam-filter">https://huggingface.co/NotShrirang/albert-spam-filter</a><br>
-Dataset: <a href="https://huggingface.co/datasets/NotShrirang/email-spam-filter">https://huggingface.co/datasets/NotShrirang/email-spam-filter</a>
+Model and dataset is deployed on HuggingFace.
+- Model: <a href="https://huggingface.co/NotShrirang/albert-spam-filter">https://huggingface.co/NotShrirang/albert-spam-filter</a><br>
+- Dataset: <a href="https://huggingface.co/datasets/NotShrirang/email-spam-filter">https://huggingface.co/datasets/NotShrirang/email-spam-filter</a>
 
 
 ## Usage
